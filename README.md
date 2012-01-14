@@ -26,5 +26,6 @@ The year 1866 was signalised by a remarkable incident, a mysterious and puzzling
 + [Wikipedia entry](http://en.wikipedia.org/wiki/Jules_Verne)
 
 ###Other Books by Jules Verne
+
 1. [A Journey to the Centre of the Earth](http://en.wikipedia.org/wiki/A_Journey_to_the_Center_of_the_Earth)
 2. [Around the World in Eighty Days](http://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days)
